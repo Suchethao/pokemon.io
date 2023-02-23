@@ -1,0 +1,2 @@
+.pokemon-container{border:5px solid #262525;display:grid;grid-template-columns:1fr 20fr 1fr;grid-template-rows:1fr 2fr 2fr 1fr;margin-left:auto;margin-right:auto;width:50vw}.pokemon-description{color:#000;font-size:2vw;grid-column:2;grid-row:4;margin-top:20px;text-align:center}.pokemon-image{align-self:center;grid-column:2;grid-row:1/4;height:20vw;justify-self:center;margin-top:20px}.prev-arrow{grid-column:1}.next-arrow,.prev-arrow{background:#262525;color:#fff;grid-row:1/5}.next-arrow{grid-column:3}
+/*# sourceMappingURL=main.7177f961.css.map*/
